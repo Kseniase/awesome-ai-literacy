@@ -1,5 +1,5 @@
 # awesome-ai-literacy
-A curated collection of frameworks, tools, and activities for AI literacy.
+A curated collection of frameworks, tools, and activities for AI literacy. Inspired by awesome-machine-learning.
 Contributions welcome!  
 
 ---
