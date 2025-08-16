@@ -1,5 +1,6 @@
 # awesome-ai-literacy
-A curated collection of frameworks, tools, and activities for AI literacy. Inspired by awesome-machine-learning.
+A curated collection of frameworks, tools, and activities for AI literacy. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning).
+Started in August 2025, still under construction.
 Contributions welcome!  
 
 ---
